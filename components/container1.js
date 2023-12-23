@@ -74,16 +74,7 @@ const styles = StyleSheet.create({
     marginTop: 30,
   },
 
-  footer: {
-   
-    marginTop:530,
-    height:80,
-    
-    backgroundColor:'#fff',
-    borderTopColor:'#777',
-    
-    
-  }
+  
 
 
 
